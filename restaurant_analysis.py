@@ -1,4 +1,3 @@
-#| C:\Users\hi\Desktop\vs python\restaurant_analysis.py
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -179,3 +178,4 @@ def main_pipeline():
 
 if __name__ == '__main__':
     main_pipeline()
+
